@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://giitiweim.injoin.se/sitemap.xml
